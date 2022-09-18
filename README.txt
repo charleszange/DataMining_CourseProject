@@ -2,7 +2,12 @@ Charles Zange
 README - INFO634 final
 Updated 6/9/2019 06:17PM
 
+DATA SOURCE
+Public Domain data from Seattle Public Library as published on Kaggle:
+https://www.kaggle.com/datasets/city-of-seattle/seattle-library-collection-inventory
 
+The license I apply to this work is related to my code and writing only - the data are listed
+as Public Domain through the Kaggle link above.
 
 ************************
 SECTIONS
